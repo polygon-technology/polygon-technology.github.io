@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-07-22_1527",
+    "name": "polygon tech",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -33,6 +33,15 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.6.11",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/download-2.png",
+    "mbrsiteDomain": "qbe3gxgrvw",
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 2,
     "versionPublish": "5.6.11"
   },
@@ -40,8 +49,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Polygon Wallet - Home",
+        "meta_descr": "Polygon Web Wallet v2. Login. Metamask Connect using browser wallet. Coinbase Wallet Connect using Coinbase wallet. Bitski Wallet Connect using Bitski wallet.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
